@@ -104,8 +104,8 @@ Currently leading research initiatives in:
 
 - 📧 Email: mm.aref@research.ai
 - 🔗 LinkedIn: [MM-Aref](https://linkedin.com/in/mm-aref)
-- 🐦 Twitter: [@MM_Aref_AI](https://twitter.com/MM_Aref_AI)
-- 🌐 Website: [www.mm-aref.ai](https://www.mm-aref.ai)
+- 🐦 Twitter: [@MM_Aref_AI](https://x.com/XowlDotAI)
+- 🌐 Website: [xOWL.ai](https:/xOWL.ai)
 
 ### Open for Collaboration in:
 - Research Projects
